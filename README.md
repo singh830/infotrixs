@@ -19,7 +19,7 @@ By using this command, one can remove the city added to the favorite city list. 
 The Refresh command refreshes the cities added to the favorite list.
 <img width="265" alt="Capture 4" src="https://github.com/singh830/infotrixs/assets/153309843/397f14f7-4f03-4b6c-8b26-92362c028c4e">
 
-. Exit
+6. Exit
 Using the exit command exits the program.
 <img width="325" alt="Capture 5" src="https://github.com/singh830/infotrixs/assets/153309843/ad258835-24eb-441f-995d-6ff748ad5c1b">
 
