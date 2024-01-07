@@ -40,7 +40,8 @@ Output:
 
 The Refresh command refreshes the cities added to the favorite list.
 
-<img width="265" alt="Capture 4" src="https://github.com/singh830/infotrixs/assets/153309843/397f14f7-4f03-4b6c-8b26-92362c028c4e
+<img width="265" alt="Capture 4" src="https://github.com/singh830/infotrixs/assets/153309843/1b46fea7-c970-4be0-8918-0f6fc8103020">
+
 
 5. Exit
 
